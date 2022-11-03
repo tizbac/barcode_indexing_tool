@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+src/barcode_indexing_tool/__init__.py
+src/barcode_indexing_tool/index_images.py
+src/barcode_indexing_tool.egg-info/PKG-INFO
+src/barcode_indexing_tool.egg-info/SOURCES.txt
+src/barcode_indexing_tool.egg-info/dependency_links.txt
+src/barcode_indexing_tool.egg-info/entry_points.txt
+src/barcode_indexing_tool.egg-info/requires.txt
+src/barcode_indexing_tool.egg-info/top_level.txt
